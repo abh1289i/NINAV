@@ -3,7 +3,7 @@ package myProject;
 public class Test1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Hello it is my first project to pussh in github");
 
 	}
 
